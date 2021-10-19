@@ -48,5 +48,28 @@ console.log(car1.newPrice(4444000))
 console.log(car2.showAll())
 
 
+// document.querySelector('p')
+// const pragraph  = document.querySelector('p')
+
+// pragraph.class ='text';
+
+// pragraph.style.color ='red';
+// pragraph.innerText = 'Ali.alyahya514@gmail.com';
+
+
+// const toplist =document.querySelector('#toplist')
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
